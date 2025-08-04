@@ -1,7 +1,3 @@
-Sure! Here's a complete and clean **README** instruction set tailored for **macOS**, explaining how to bridge files from **Databricks DBFS** to **Google Drive** using `databricks-cli`, `rclone`, and a Bash script.
-
----
-
 # 📁 Databricks-to-GoogleDrive File Bridge (macOS)
 
 This guide shows you how to copy files from **Databricks DBFS** to your **Google Drive** using a Bash script on macOS. You'll use:

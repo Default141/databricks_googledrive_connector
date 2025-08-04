@@ -22,8 +22,8 @@ Then authenticate:
 databricks configure --token
 ```
 
-* **Databricks Host**: e.g. `https://adb-xxxxxxxx.7.azuredatabricks.net`
-* **Token**: [Generate a PAT here](https://docs.databricks.com/dev-tools/api/latest/authentication.html)
+* **Databricks Host**: `886789292378781.1.gcp.databricks.com`
+* **Token**: get token from databricks_workspace -> setting -> devloper -> access token
 
 ---
 

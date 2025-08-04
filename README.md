@@ -69,8 +69,8 @@ Here’s an example of how to use it:
 
 ```bash
 ./file_bridge.sh \
-  dbfs:/FileStore/tables/customerRewardFilebase \
-  ./my_folder \
-  gdrive \
-  MyDrive/databricks-backup
+  dbfs:{DBFS filestore path in databricks} \
+  {local store path} \
+  {name of rclone config} \
+  {googledrive path}
 ```

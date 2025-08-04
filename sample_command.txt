@@ -1,0 +1,5 @@
+./file_bridge.sh \
+  dbfs:/FileStore/tables/customerRewardFilebase \
+  ./my_folder \
+  gdrive \
+  MyDrive/databricks-backup
